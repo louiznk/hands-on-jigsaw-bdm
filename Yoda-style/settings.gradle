@@ -7,6 +7,6 @@
  * in the user guide at https://docs.gradle.org/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'devfest-nantes'
+rootProject.name = 'devfest-bdm'
 
 include 'diffutils', 'fuzzywuzzy', 'api-starwars', 'api-starwars-local-impl', 'starwars-http-server'
