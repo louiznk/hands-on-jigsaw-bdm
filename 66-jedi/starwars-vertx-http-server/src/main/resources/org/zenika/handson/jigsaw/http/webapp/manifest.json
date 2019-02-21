@@ -1,6 +1,6 @@
 {
-  "name": "devoxx-jigsaw-webapp",
-  "short_name": "devoxx-jigsaw-webapp",
+  "name": "devfest-bdm-jigsaw-webapp",
+  "short_name": "devfest-bdm-jigsaw-webapp",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
